@@ -1,0 +1,19 @@
+Data Redundancy and Inconsistency:
+
+ Files often led to data redundancy and inconsistency because the same data could be stored in multiple files, leading to duplication and potential inconsistencies.
+
+Data Isolation:
+
+  In file-based systems, data is often isolated in separate files, making it challenging to access and integrate information stored in different files.
+
+Data Dependence:
+
+  File-based systems are highly dependent on the programs that access them. Changes to the structure of files may require modifications to multiple programs, leading to maintenance s.
+
+Limited Security and Access Control:
+
+  File-based systems often lack robust security mechanisms, making it challenging to control access to sensitive data.
+
+Concurrency Control:
+
+  Concurrent access to files by multiple users can lead to data corruption and inconsistency.

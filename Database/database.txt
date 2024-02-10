@@ -1,0 +1,3 @@
+ A database is an electronically stored, systematic collection of data. It can contain any type of data, including words, numbers, images, videos, and files.
+
+Some examples of how databases are used include storing customer information in a customer relationship management (CRM) system, storing financial transactions in an accounting system, storing inventory and orders in an e-commerce system, storing patient records in a healthcare system, and storing student records in an educational institution.

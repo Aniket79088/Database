@@ -1,0 +1,9 @@
+A file-based storage system is a method of organizing and storing data on a computer or storage device. In a file-based storage system, data is grouped into files and organized within a hierarchical structure of directories or folders.
+
+While file-based storage systems are widely used and have proven effective for organizing and managing data, they do come with certain challenges. One major challenge is:
+
+Scalability:
+Issue: As the volume of data grows, traditional file systems may face scalability challenges. The hierarchical structure of directories can become complex, leading to difficulties in managing and retrieving files efficiently.
+
+Impact: Large-scale storage systems, especially in enterprise environments or cloud-based solutions, may experience performance degradation and increased maintenance overhead when dealing with a massive number of files and directories.
+
